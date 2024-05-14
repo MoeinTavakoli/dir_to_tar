@@ -161,3 +161,4 @@ cython_debug/
 
 ## Self 
 fake-data/
+*.tar.gz
