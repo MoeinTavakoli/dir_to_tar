@@ -46,5 +46,5 @@ pip install progress
 Run the script from the command line with the directory you want to archive as an argument:
 
 ```
-python3 main.py /path/to/directory
+python3 main.py -d /path/to/directory
 ```
